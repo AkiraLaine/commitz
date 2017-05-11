@@ -1,0 +1,26 @@
+{
+  "name": "commitz",
+  "version": "1.0.1",
+  "description": "An easy way to find out how many commits were made by each contributor to a repo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkiraLaine/commitz.git"
+  },
+  "keywords": [
+    "github",
+    "commits",
+    "repo"
+  ],
+  "author": "Akira Laine <akira_laine@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AkiraLaine/commitz/issues"
+  },
+  "homepage": "https://github.com/AkiraLaine/commitz#readme",
+  "bin": {
+    "commitz": "commitz.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.7"
+  }
+}
