@@ -1,6 +1,6 @@
 {
   "name": "commitz",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "An easy way to find out how many commits were made by each contributor to a repo",
   "repository": {
     "type": "git",
